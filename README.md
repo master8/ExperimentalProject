@@ -1,4 +1,4 @@
-This is an example for [issue](https://github.com/firebase/firebase-android-sdk/issues/977)
+This is an example for [issue](https://github.com/firebase/firebase-android-sdk/issues/1092)
 
 # In-App Messaging - Message is not showing!
 ### “Removing display event listener”
